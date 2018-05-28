@@ -1,0 +1,343 @@
+{
+	"styles": [{
+		"name": "Heading 100",
+		"font": "IBMPlexSans-SemiBold",
+		"size": 100,
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		},
+		"alignment": 0,
+		"spacing": 1.2,
+		"lineHeight": 120,
+		"paragraphSpacing": 64,
+		"textTransform": 0,
+		"strikethrough": 0,
+		"underline": 0
+	}, {
+		"name": "Heading 72",
+		"font": "IBMPlexSans-SemiBold",
+		"size": 72,
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		},
+		"alignment": 0,
+		"spacing": 1.2,
+		"lineHeight": 88,
+		"paragraphSpacing": 44,
+		"textTransform": 0,
+		"strikethrough": null,
+		"underline": null
+	}, {
+		"name": "Heading 63",
+		"font": "IBMPlexSans-SemiBold",
+		"size": 63,
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		},
+		"alignment": 0,
+		"spacing": 1.6,
+		"lineHeight": 80,
+		"paragraphSpacing": 120,
+		"textTransform": 0,
+		"strikethrough": null,
+		"underline": null
+	}, {
+		"name": "Heading 40",
+		"font": "IBMPlexSans-SemiBold",
+		"size": 40,
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		},
+		"alignment": 0,
+		"spacing": 2.0,
+		"lineHeight": 56,
+		"paragraphSpacing": 32,
+		"textTransform": 0,
+		"strikethrough": null,
+		"underline": null
+	}, {
+		"name": "Heading 32",
+		"font": "IBMPlexSans-SemiBold",
+		"size": 32,
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		},
+		"alignment": 0,
+		"spacing": 2.4,
+		"lineHeight": 48,
+		"paragraphSpacing": 24,
+		"textTransform": 0,
+		"strikethrough": null,
+		"underline": null
+	}, {
+		"name": "HeadingSub 26",
+		"font": "IBMPlexSans-Medium",
+		"size": 26,
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		},
+		"alignment": 0,
+		"spacing": 1.8,
+		"lineHeight": 40,
+		"paragraphSpacing": 64,
+		"textTransform": 0,
+		"strikethrough": null,
+		"underline": null
+	}, {
+		"name": "HeadingSub 21",
+		"font": "IBMPlexSans-Medium",
+		"size": 21,
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		},
+		"alignment": 0,
+		"spacing": 1.2,
+		"lineHeight": 32,
+		"paragraphSpacing": 48,
+		"textTransform": 0,
+		"strikethrough": null,
+		"underline": null
+	}, {
+		"name": "BodyText 18",
+		"font": "IBMPlexSans",
+		"size": 18,
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		},
+		"alignment": 0,
+		"spacing": 0.0,
+		"lineHeight": 24,
+		"paragraphSpacing": 40,
+		"textTransform": 0,
+		"strikethrough": null,
+		"underline": null
+	}, {
+		"name": "BodyText 16",
+		"font": "IBMPlexSans",
+		"size": 16,
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		},
+		"alignment": 0,
+		"spacing": 0.0,
+		"lineHeight": 24,
+		"paragraphSpacing": 32,
+		"textTransform": 0,
+		"strikethrough": null,
+		"underline": null
+	}, {
+		"name": "ButtonText 21",
+		"font": "IBMPlexSans",
+		"size": 21,
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		},
+		"alignment": 0,
+		"spacing": 1.0,
+		"lineHeight": 32,
+		"paragraphSpacing": 21,
+		"textTransform": 0,
+		"strikethrough": null,
+		"underline": null
+	}, {
+		"name": "ButtonText 18",
+		"font": "IBMPlexSans",
+		"size": 18,
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		},
+		"alignment": 0,
+		"spacing": 1.4,
+		"lineHeight": 24,
+		"paragraphSpacing": 36,
+		"textTransform": 0,
+		"strikethrough": null,
+		"underline": null
+	}, {
+		"name": "Tooltip 16",
+		"font": "IBMPlexSans",
+		"size": 16,
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		},
+		"alignment": 0,
+		"spacing": 0.0,
+		"lineHeight": 24,
+		"paragraphSpacing": 36,
+		"textTransform": 0,
+		"strikethrough": null,
+		"underline": null
+	}, {
+		"name": "Footnote 14",
+		"font": "IBMPlexSans",
+		"size": 14,
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		},
+		"alignment": 0,
+		"spacing": 0.0,
+		"lineHeight": 16,
+		"paragraphSpacing": 24,
+		"textTransform": 0,
+		"strikethrough": null,
+		"underline": null
+	}, {
+		"name": "Caption normal 16",
+		"font": "IBMPlexSans",
+		"size": 16,
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		},
+		"alignment": 0,
+		"spacing": 0.0,
+		"lineHeight": 24,
+		"paragraphSpacing": 40,
+		"textTransform": 0,
+		"strikethrough": null,
+		"underline": null
+	}, {
+		"name": "Caption icon 14",
+		"font": "IBMPlexSans",
+		"size": 14,
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		},
+		"alignment": 0,
+		"spacing": 0.0,
+		"lineHeight": 24,
+		"paragraphSpacing": 32,
+		"textTransform": 0,
+		"strikethrough": null,
+		"underline": null
+	}, {
+		"name": "Input Field 21",
+		"font": "IBMPlexSans-Light",
+		"size": 21,
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		},
+		"alignment": 0,
+		"spacing": 0.0,
+		"lineHeight": 32,
+		"paragraphSpacing": 48,
+		"textTransform": 0,
+		"strikethrough": null,
+		"underline": null
+	}, {
+		"name": "Tabular data 21",
+		"font": "IBMPlexSansCond",
+		"size": 21,
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		},
+		"alignment": 0,
+		"spacing": 0.0,
+		"lineHeight": 24,
+		"paragraphSpacing": 40,
+		"textTransform": 0,
+		"strikethrough": null,
+		"underline": null
+	}, {
+		"name": "Singles & Badges 63",
+		"font": "IBMPlexMono-Bold",
+		"size": 63,
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		},
+		"alignment": 0,
+		"spacing": 0.0,
+		"lineHeight": 80,
+		"paragraphSpacing": 0,
+		"textTransform": 0,
+		"strikethrough": null,
+		"underline": null
+	}, {
+		"name": "Singles & Badges 40",
+		"font": "IBMPlexMono-Bold",
+		"size": 40,
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		},
+		"alignment": 0,
+		"spacing": 0.0,
+		"lineHeight": 56,
+		"paragraphSpacing": 0,
+		"textTransform": 0,
+		"strikethrough": null,
+		"underline": null
+	}, {
+		"name": "Snippet of code 16",
+		"font": "IBMPlexMono",
+		"size": 16,
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		},
+		"alignment": 0,
+		"spacing": 0.0,
+		"lineHeight": 24,
+		"paragraphSpacing": 0,
+		"textTransform": 0,
+		"strikethrough": null,
+		"underline": null
+	}]
+}
